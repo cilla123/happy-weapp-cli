@@ -1,6 +1,6 @@
 {
   "name": "happy-weapp-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "happy小程序脚手架",
   "main": "index.js",
   "bin": {
@@ -9,6 +9,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "小程序",
+    "小程序脚手架",
+    "模板",
+    "vue写法"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cilla123/happy-weapp-cli.git"
