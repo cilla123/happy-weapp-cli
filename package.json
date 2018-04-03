@@ -1,0 +1,36 @@
+{
+  "name": "happy-weapp-cli",
+  "version": "1.0.0",
+  "description": "happy小程序脚手架",
+  "main": "index.js",
+  "bin": {
+    "happy-weapp": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cilla123/happy-weapp-cli.git"
+  },
+  "author": "Ben赖珏豪",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cilla123/happy-weapp-cli/issues"
+  },
+  "homepage": "https://github.com/cilla123/happy-weapp-cli#readme",
+  "devDependencies": {
+    "boxen": "^1.3.0",
+    "chalk": "^2.3.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "download": "^6.2.5",
+    "ejs": "^2.5.8",
+    "fs-extra": "^5.0.0",
+    "inquirer": "^5.2.0",
+    "lodash": "^4.17.5",
+    "ora": "^2.0.0",
+    "shelljs": "^0.8.1"
+  }
+}
