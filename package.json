@@ -1,6 +1,6 @@
 {
   "name": "happy-weapp-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "happy小程序脚手架",
   "main": "./src/index.js",
   "bin": {
@@ -13,7 +13,8 @@
     "小程序",
     "小程序脚手架",
     "模板",
-    "vue写法"
+    "vue写法",
+    "脚手架"
   ],
   "repository": {
     "type": "git",
