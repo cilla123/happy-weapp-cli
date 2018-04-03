@@ -2,7 +2,7 @@
   "name": "happy-weapp-cli",
   "version": "1.0.2",
   "description": "happy小程序脚手架",
-  "main": "index.js",
+  "main": "./src/index.js",
   "bin": {
     "happy-weapp": "bin/index.js"
   },
@@ -38,5 +38,6 @@
     "lodash": "^4.17.5",
     "ora": "^2.0.0",
     "shelljs": "^0.8.1"
-  }
+  },
+  "devDependencies": {}
 }
