@@ -101,7 +101,8 @@ module.exports = (projectName) => {
                 请按照下面的步骤进行操作：
                     1. cd ${projectName}
                     2. npm install 安装项目依赖
-                    3. happy dev 开启后端服务
+                    3. npm run dev 开启开发环境
+                    4. npm run build 开启生产环境
                     `;
                 console.log(boxen(msg, {
                     padding: {
