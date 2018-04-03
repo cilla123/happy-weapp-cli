@@ -1,6 +1,6 @@
 {
   "name": "happy-weapp-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "happy小程序脚手架",
   "main": "./src/index.js",
   "bin": {
